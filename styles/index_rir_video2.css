@@ -1,0 +1,39 @@
+body {
+  background-color: #FFF5ED;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 3px;
+  padding: 70px;
+}
+
+h1 {
+	color: #D67C00;
+	font-size:45px;
+	text-align: center;
+} 
+			
+table, td {
+	padding: 20px;
+}
+
+
+.header {
+  width: 350px;
+  margin: 0 auto;
+}
+
+#videos {
+    text-align: center;
+}
+
+p.one {
+	text-transform: uppercase;
+	font-size: 20px
+}
+
+p.two {
+	text-transform: bold;
+}
+
+p.three {
+	color: #D67C00;
+}

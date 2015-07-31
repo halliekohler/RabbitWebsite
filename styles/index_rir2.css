@@ -1,0 +1,57 @@
+body {
+  background-color: #FFF5ED;
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 3px;
+  padding: 70px;
+}
+
+h2 {
+  text-align: center;
+  color: #D67C00;
+  font-size:15px;
+}
+
+p{
+  font-size: 15px;
+}
+
+#nav {
+width: 300px;
+margin: 0 auto;
+list-style-type: none;
+}
+
+/*#nav ul{
+border: 2px solid black;
+}*/
+
+/*box around the nav bar, or buttons?*/
+
+#nav li {
+float: left;
+}
+
+#nav a {
+display: block;
+text-align: center;
+width: 150px; 
+text-decoration: none; 
+color: #D67C00;
+font-size: 20px;
+}
+
+#nav a:hover {
+  color: #EFCB99;
+}
+
+#footer{
+  padding:10px;
+  width:75%;
+  margin: 0 auto;
+}
+
+.header {
+  width: 700px;
+  margin: 0 auto;
+}
+
